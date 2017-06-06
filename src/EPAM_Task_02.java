@@ -1,6 +1,6 @@
 public class EPAM_Task_02 {
     public static void main(String[] args) {
-        double E = 0.014d;
+        double E = 0.014d; //this shit should be read from args but im too lazy today
 
         boolean found = false;
         int n = 1;
